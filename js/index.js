@@ -3,6 +3,7 @@ $(document).ready(function(){
         dots:true,
         autoplay:true,
         infinite: true,
+        mobileFirst: true,
         slidesToShow: 3,
         slidesToScroll: 3
     });
