@@ -68,3 +68,12 @@
 	max-width: initial;
 	/* background-size:cover;  */
 }
+
+@media(max-width: 768px) {
+    body {
+        padding: 0;
+    }
+    #items button{
+    	padding: 0px 0px; 
+    }
+    }
